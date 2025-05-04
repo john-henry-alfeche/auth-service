@@ -6,7 +6,7 @@ A simple Go authentication server using Gin, Gorm, and JWT to handle user regist
 
 1. Clone the project:
 ```bash
-git clone https://github.com/yourusername/yourproject.git
+git clone git@github.com:john-henry-alfeche/auth-service.git
 cd yourproject
 ```
 
