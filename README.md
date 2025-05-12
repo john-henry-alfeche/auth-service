@@ -4,23 +4,21 @@ A simple Go authentication server using Gin, Gorm, and JWT to handle user regist
 
 ## Setup
 
-1. Clone the project:
+Clone the project:
 ```bash
-git clone git@github.com:john-henry-alfeche/auth-service.git
-cd yourproject
+git clone git@github.com:john-henry-alfeche/go-jwt-auth-service.git
+cd go-jwt-auth-service
 ```
 
-2. Initialize the Go module:
+Initialize the Go module:
 ```bash
-go mod init yourproject
+go mod init go-jwt-auth-service
 go mod tidy
 ```
 
-3. Run the server:
+Run the server:
 ```bash
 go run ./cmd/main.go
 ```
 
 Server runs at `http://localhost:8080`.
-
----
