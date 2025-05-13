@@ -1,4 +1,4 @@
-module auth-service
+module go-jwt-auth-service
 
 go 1.24
 
